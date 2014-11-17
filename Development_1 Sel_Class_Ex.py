@@ -2,6 +2,8 @@
 #08/10/2014
 #Selection Class Exercise Dev 1
 
+print("When the month number is entered, this program will state the corresponding month.")
+
 month = int(input("Please enter a month as a number between 1-12: "))
 if month == 1:
     print("The month you entered is January")
